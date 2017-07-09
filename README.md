@@ -73,6 +73,10 @@ https://www.tunnelsup.com/python-cheat-sheet/
 
 https://www.tunnelsup.com/metasploit-cheat-sheet/
 
+# Reverse and Bind Shell tutorials
+
+http://resources.infosecinstitute.com/icmp-reverse-shell/#gref
+
 # Text Editor Cheat Sheets
 
 https://vim.rtorr.com/ - Vim
