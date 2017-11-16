@@ -1,5 +1,7 @@
 # OSCP-PWK-Prep-Resources-
-A list of the resources I used as a prepared for the PWK course 
+A list of the resources I have been using as I prepare for the exam
+
+Update: changed wording so that it didnt seem like I already have the certification. My exam is scheduled for the end of December. I also have some more resources that I have found helpful since the last update. I will be adding those sometime this week
 
   # OSCP Experience
 This are the blogs I have found that have given me a good direction to start as I prepared for the course
@@ -23,6 +25,9 @@ https://pentesterlab.com/bootcamp
 
 http://www.penguintutor.com/linux/basic-network-reference
 
+https://www.cybrary.it/course/advanced-penetration-testing/
+
+https://tulpasecurity.files.wordpress.com/2016/09/tulpa-pwk-prep-guide1.pdf
 
 # Metasploit 
 although it has been said that Metasploit use is limited during the exam, Offensive Security recommends getting more familiar with Metasploit. I have been going through the metasploit unleashed course its really good info, i would be suprised if I dont have to come back to this repeatedly
@@ -35,9 +40,11 @@ https://community.rapid7.com/community/metasploit/blog/2016/11/15/test-your-migh
 
 https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/
 
+Privilege Escalation - Linux
+
 https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 
-# Networking
+# TCPDump
 
 https://danielmiessler.com/study/tcpdump/
 
