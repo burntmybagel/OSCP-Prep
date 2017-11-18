@@ -1,3 +1,6 @@
 Nmap UDP scan `nmap <IP> -sU`
-Output nmap scan in 3 major formats  ```nmap <IP> -oA filename```
+Output nmap scan in 3 major formats
+```
+nmap <IP> -oA filename
+```
 nmap scan to do service and OS detection and scans all ports nmap -p- -SV -A <IP> 
