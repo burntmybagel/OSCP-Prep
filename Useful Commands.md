@@ -29,4 +29,6 @@ Digital ocean has become my favorite resource for learning about Linux, straight
 
 ```/etc/init.d```
 
+```/usr/sbin```
+
 [https://www.digitalocean.com/community/tutorials/how-to-use-passwd-and-adduser-to-manage-passwords-on-a-linux-vps]
