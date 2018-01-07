@@ -32,3 +32,6 @@ Digital ocean has become my favorite resource for learning about Linux, straight
 ```/usr/sbin```
 
 [https://www.digitalocean.com/community/tutorials/how-to-use-passwd-and-adduser-to-manage-passwords-on-a-linux-vps]
+
+display the first few lines of a file ```head file.txt```
+display the last few lines of a file ```tail file.txt```
