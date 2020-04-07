@@ -88,3 +88,7 @@ http://resources.infosecinstitute.com/icmp-reverse-shell/#gref
 
 https://vim.rtorr.com/ - Vim
 
+# Report
+
+https://github.com/noraj/OSCP-Exam-Report-Template-Markdown
+
